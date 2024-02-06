@@ -1,0 +1,32 @@
+
+body {
+  background-image: url('./escudoDelMinisterioEduDegradado.png');
+   margin: 0;
+  padding: 5px;
+  /* height: 90px ;  */
+  background-size: 100% 100%; 
+   background-position: center;
+  font-family: 'Arial', sans-serif; 
+}
+
+.requisitos-container {
+  background-color: blueviolet;
+  /* border-radius: 10px;
+  padding: 20px;
+} */
+}
+.textoColorPost{
+  color: blue;
+}
+.requisitos1 {
+  background-color: rgb(159, 240, 229);
+  
+  /* border-radius: 10px;
+  padding: 20px;
+} */
+}
+
+
+
+
+

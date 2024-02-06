@@ -1,0 +1,57 @@
+body {
+  background: linear-gradient(to right, #e4cfe2, #ded2f0);
+}
+
+.background-container {
+  background-color: rgba(45, 189, 117, 0.8);
+  color: #ffffff;
+  text-align: center;
+  padding: 50px 20px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.publicidad-container {
+  margin-top: 30px;
+}
+
+
+.footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.btn-inscripcion {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-inscripcion:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.btn-requisitos {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-requisitos:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.titulo-inscripciones {
+
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.tamañoTexto{
+  font-size: 25px;
+}
+.textoTitulo{
+  color: rgb(70, 39, 184) ;
+}
+ 
